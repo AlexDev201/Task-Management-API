@@ -8,7 +8,7 @@ Categorías
 
 Los datos se almacenan en una base de datos relacional MySQL.
 
-📖 Características
+Características: 
 ✅ Gestión de usuarios, tareas y categorías.
 ✅ Asociación de tareas a usuarios y categorías.
 ✅ Operaciones CRUD completas para cada entidad.
